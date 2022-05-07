@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/943f2cfc-2a54-4f7f-99fa-5f8a6f48196a/resourceGroups/Development/providers/Microsoft.Web/sites/hk-common-users-nodejs-api",
+    "appService.deploySubpath": "."
+}
